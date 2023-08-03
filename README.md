@@ -8,6 +8,5 @@
 - 📫 How to reach me - @akhilvarma2378@gmail.com
 
 
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilvarma2378&show_icons=true&locale=en&layout=compact" alt="akhilvarma2378" /></p>
 
 
