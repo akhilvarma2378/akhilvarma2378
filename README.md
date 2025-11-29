@@ -4,7 +4,7 @@
 
 - 👋 learning Enthusiast 
 - 🌱 Associate Software Developer
-- 💞️ looking to collaborate Backend(NodeJS, FAST API) and Agentic AI(LangGraph) Projects
+- 💞️ looking to collaborate on FullStack(Typescript, Python) and Agentic AI Projects
 - 📫 How to reach me - @akhilvarma2378@gmail.com
 
 
