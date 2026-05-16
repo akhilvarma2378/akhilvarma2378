@@ -8,3 +8,4 @@
 - 📫 How to reach me - @akhilvarma2378@gmail.com
 
 
+![](https://komarev.com/ghpvc/?username=akhilvarma22378&style=plastic&color=green&label=PROFILE+VIEWS) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
